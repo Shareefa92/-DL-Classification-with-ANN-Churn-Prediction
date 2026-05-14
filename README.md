@@ -112,7 +112,12 @@ seaborn
 | ⚡ Real-time Prediction | Instant results via Streamlit app |
 
 ---
-
+## 📊 Power BI Dashboard
+Interactive dashboard analyzing churn patterns including:
+- Churn Rate: 20%
+- Customer distribution by Geography
+- Age and Balance analysis by Churn
+- Gender distribution
 ## 👩‍💻 Author
 
 **Sharifah Al-Dalbahi**  
